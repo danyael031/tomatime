@@ -4,7 +4,9 @@
 
 #include <iostream>
 
-int main (){
+int main(){
+	std::cout<<"Hola mundo!"<<endl;
+	std::cout<<"Primer proyecto subido a github"<<endl;
 	return 0;
 
 

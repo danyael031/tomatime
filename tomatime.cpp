@@ -5,8 +5,8 @@
 #include <iostream>
 
 int main(){
-	std::cout<<"Hola mundo!"<<endl;
-	std::cout<<"Primer proyecto subido a github"<<endl;
+	std::cout<<"Hola mundo!"<<std::endl;
+	std::cout<<"Primer proyecto subido a github"<<std::endl;
 	return 0;
 
 
